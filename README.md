@@ -19,8 +19,8 @@ For python 3:
 ```
 python3 -m http.server 3000
 ```
-| Commands| Description|
-|:---:|:---:|
+| Commands | Description|
+|---------|------------|
 | `gulp shot` | Take the screenshots of all the html pages in the theme folder. |
-| `gulp rename` | Rename the all images in the dist folder with the prefix *dist--* |
-| `gulp` | Take the screenshots of all the html pages in the theme folder and then rename the all images in the dist folder with the prefix *dist--*. |
+| `gulp rename` | Rename the all images in the dist folder with the prefix `dist--`. |
+| `gulp` | Take the screenshots of all the html pages in the theme folder and then rename the all images in the dist folder with the prefix `dist--`. |
