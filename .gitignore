@@ -48,5 +48,3 @@ bin
 npm-debug.log
 compressed
 *.css.map
-/theme/**/**.*
-/dist/**/**.*
