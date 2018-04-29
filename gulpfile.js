@@ -105,7 +105,7 @@ gulp.task('shot', (callback) => {
   runSequence("through", callback);
 });
 
-gulp.task('shot:rename', function() {
+gulp.task('rename', function() {
     return gulp.src('./dist/*.jpg')
         .pipe(vinylPaths(del))
         .pipe(rename({prefix: "dist--"}))
@@ -113,5 +113,5 @@ gulp.task('shot:rename', function() {
 });
 
 gulp.task('default', (callback) => {
-	runSequence("shot:rename", "through", callback);
+	runSequence("rename", "through", callback);
 });
