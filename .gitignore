@@ -37,8 +37,6 @@ ehthumbs.db
 Thumbs.db
 
 # shot ignored files #
-*.html
-*.jpg
 .idea
 Thumbs.db
 .DS_Store
@@ -50,3 +48,5 @@ bin
 npm-debug.log
 compressed
 *.css.map
+/theme/**/**.*
+/dist/**/**.*
