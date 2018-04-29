@@ -37,8 +37,8 @@ ehthumbs.db
 Thumbs.db
 
 # shot ignored files #
-.html
-.jpg
+*.html
+*.jpg
 .idea
 Thumbs.db
 .DS_Store
