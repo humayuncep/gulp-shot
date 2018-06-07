@@ -1,5 +1,5 @@
 {
-  "name": "shot",
+  "name": "gulp-shot-cli",
   "version": "1.0.0",
   "description": "Take screenshot",
   "main": "gulpfile.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Humayun kabir",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "ansi": "^0.3.1",
     "del": "^3.0.0",
