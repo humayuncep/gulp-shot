@@ -2,13 +2,17 @@
   "name": "gulp-shot-cli",
   "version": "1.0.0",
   "description": "Take screenshot",
+  "keywords": ["gulp-shot", "gulpshot", "screenshot", "webshot", "web-shot", "puppeteer"],
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Humayun kabir",
+  "url": "https://github.com/humayunkabir/gulp-shot-cli",
+  "homepage": "https://www.npmjs.com/package/gulp-shot-cli",
+  "email": "humayunkabir.cep@gmail.com",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "ansi": "^0.3.1",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
@@ -17,6 +21,5 @@
     "run-sequence": "^2.2.1",
     "through2": "^2.0.3",
     "vinyl-paths": "^2.1.0"
-  },
-  "dependencies": {}
+  }
 }

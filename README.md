@@ -1,6 +1,6 @@
 
 # gulp-shot-cli
-gulp-shot is a Node library that uses **Puppeteer** which provides a high-level API to control headless **Chrome** or **Chromium** over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome or Chromium. It creates an instance of Browser, open pages, and then navigates the all pages in the **theme** folder and saves the screenshots in the **dist** folder one by one.
+gulp-shot-cli is a Node library that uses **Puppeteer** which provides a high-level API to control headless **Chrome** or **Chromium** over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome or Chromium. It creates an instance of Browser, open pages, and then navigates the all pages in the **theme** folder and saves the screenshots in the **dist** folder one by one.
 
 Open a **terminal** at the root folder and run the following command to *install* the dependencies.
 ```
