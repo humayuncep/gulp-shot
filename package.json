@@ -1,6 +1,6 @@
 {
   "name": "gulp-shot-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Take screenshot",
   "keywords": [
     "gulp-shot",
@@ -14,9 +14,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humayunkabir/gulp-shot-cli"
+  },
   "author": "Humayun kabir",
   "url": "https://github.com/humayunkabir/gulp-shot-cli",
-  "homepage": "https://www.npmjs.com/package/gulp-shot-cli",
+  "bugs": {
+    "url": "https://github.com/humayunkabir/gulp-shot-cli/issues"
+  },
+  "homepage": "https://humayunkabir.github.io",
   "email": "humayunkabir.cep@gmail.com",
   "license": "ISC",
   "dependencies": {
