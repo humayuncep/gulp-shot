@@ -1,8 +1,15 @@
 {
   "name": "gulp-shot-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Take screenshot",
-  "keywords": ["gulp-shot", "gulpshot", "screenshot", "webshot", "web-shot", "puppeteer"],
+  "keywords": [
+    "gulp-shot",
+    "gulpshot",
+    "screenshot",
+    "webshot",
+    "web-shot",
+    "puppeteer"
+  ],
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
